@@ -1,0 +1,94 @@
+header {
+    background-color: #26d0c9;
+    color: #fff;
+    height: 90px;
+  }
+.header-list li {
+    float: left;
+    padding: 33px 20px ;
+    list-style: none;
+  }
+
+.top{
+    background-color: aquamarine;
+    border: 10px solid aliceblue;
+    margin: 10px;
+}
+.top img{
+    float:left;
+    width:200px;
+    height: 280px;
+    
+}
+
+.top h1{
+    background-color:rgb(21, 58, 222);
+    float: left;
+    
+    padding: 100px 300px 100px 10px;
+
+}
+
+.contacts{
+    background-color: aquamarine;
+}
+.contacts h2{
+    padding:20px 0 0 10px;
+
+}
+
+.contacts-content-left{
+    font-size: large;
+    padding: 0px 40px 0px 0px;
+    float:left;
+    border: 3px blue;
+    border-style: none dashed none none;
+    color:blueviolet;
+}
+
+.contacts-content-left ol{
+    padding: 5px ;
+}
+.contacts-content-right ol{
+    padding: 3px ;
+}
+
+.contacts-content-right{
+    font-size: large;
+    padding: 0px 40px 0px 100px;
+    border: 3px solid red;
+    color:purple;
+}
+
+
+.intro{
+    background-color:aliceblue;
+    font-size: large;
+    padding: 5px;
+    border: 2px solid aquamarine ;
+}
+
+.skills{
+    font-size: large;
+    background-color:aliceblue;
+    padding: 5px;
+    border: 2px solid aquamarine ;
+}
+
+.education{
+    font-size: large;
+    background-color:aliceblue;
+    padding: 5px;
+    border: 2px solid aquamarine ;
+}
+
+.bottom{
+    background-color: aliceblue;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.bottom span{
+    color:red;
+}
+    
